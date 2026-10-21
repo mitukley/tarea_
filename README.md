@@ -62,19 +62,30 @@ diferente: grave, medio o agudo. Además, la frecuencia cambia según la posici�
 
 
 6 Instrucciones para compilar y cargar desde vs code 
+
 1 Clonar el Repositorio desde GitHub:
 Abre una terminal en tu computador o dentro de VS Code y ejecuta:
+
+
 2 Abrir el Proyecto en VS Code:
 * Abre VS Code.
 * Ve a Archivo → Abrir carpeta... (File -> Open
 Folder) y selecciona la carpeta del proyecto descargado (tarea_2).
+
+
 3. Conectar la Placa:
 * Conecta tu placa Arduino UNO al computador utilizando el cable USB.
+
+  
 4
 Compilar el Proyecto:
 * Con PlatformIO: Haz clic en el icono de marca de verificación (Build) situado en la barra de estado
 inferior de VS Code
+
+
 5 Cargar el Firmware al Arduino:
 * Con PlatformIO: Haz clic en la flecha hacia la derecha (→ Upload) en la barra inferior
+
+  
 6 Monitor Serie :
 * Para observar las lecturas de distancia en tiempo real, abre el Monitor Serie haciendo clic en el icono del enchufe
